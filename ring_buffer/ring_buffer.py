@@ -41,6 +41,7 @@ rb.append('d')
 rb.append('e')
 # rb.append('f')
 # rb.append('g')
+# rb.append('h')
 
 print(rb.get())
 
